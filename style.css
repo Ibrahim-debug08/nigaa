@@ -20,6 +20,24 @@ nav a {
   color: #333;
 }
 
+#profil {
+  max-width: 720px;
+  margin: 32px auto;
+  padding: 24px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+#profil h2 {
+  margin-top: 0;
+  color: #333;
+}
+
+#profil p {
+  line-height: 1.6;
+  color: #555;
+}
+
 .hero {
   margin: 32px auto;
   max-width: 1080px;
